@@ -8,3 +8,10 @@
  *
  * Consider organizing styles into separate files for maintainability.
  */
+.field {
+  margin-bottom: 10px;
+}
+
+.action {
+  margin-bottom: 10px;
+}
